@@ -8,7 +8,7 @@ I'm Salawudeen Quadri a Front-End Web Developer, Data Scientist and a computer s
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on Boom Ticket 
+- 🔭 I’m currently working on [BoomTicket](https://boomtickets.netlify.app/) 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: olamiquadri1@gmail.com.
