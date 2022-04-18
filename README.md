@@ -1,6 +1,10 @@
 ## 1. Hi I'm Quadri <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Salawudeen Quadri a Front-End Web Developer, Data Scientist and a computer science student in Lagos State University.  I Spend most of time coding outstanding projects, watching tutorial and working on myself. You can check more about me on my [Linkedin](https://www.linkedin.com/in/quadri-olamilekan-salawudeen-78a56a1a4)
+I'm Salawudeen Quadri i'm an astute Front-End Engineer with 4+ years of professional experience.
+
+Passionate about responsive websites and web application designs from concept through to deployment, which helps companies create and maintain a better code base for reusability.
+
+I am capable of continuous learning and eager to tackle complex problems which can maximize efficiency. You can check more about me on my [Linkedin](https://www.linkedin.com/in/quadri-olamilekan-salawudeen-78a56a1a4)
 
 :mailbox: Reach me out!
 
