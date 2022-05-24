@@ -54,7 +54,7 @@ I am capable of continuous learning and eager to tackle complex problems which c
 <br />
 
 #### 1.1.1. Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1ziTLx-PBbpEobvC5zd-mnCKY1mqLPXdH/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1WaSxLvDxeYBj2-bMHri-SY3nldOHUmXf/view?usp=sharing)
 - :email: olamiquadri1@gmail.com
 
 <!-- 
