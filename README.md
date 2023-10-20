@@ -15,7 +15,7 @@ I am capable of continuous learning and eager to tackle complex problems which c
 - 🔭 I’m currently working on Becoming better than who i was yesterday 
 - :computer: Most used line of code `console.log('testing error')"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: 08082698893.
+- 📫 How to reach me: +2348082698893.
 - 😄 Pronouns: Quadri.
 - ⚡ Fun fact: After God pray for Money 
 
