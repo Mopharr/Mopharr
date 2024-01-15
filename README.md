@@ -12,16 +12,16 @@ I am capable of continuous learning and eager to tackle complex problems which c
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on Becoming better than who i was yesterday 
+- 🔭 I’m currently working on Becoming better than who I was yesterday 
 - :computer: Most used line of code `console.log('testing error')"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: +2348082698893.
-- 😄 Pronouns: Quadri.
-- ⚡ Fun fact: After God pray for Money 
+- 😄 Pronouns: He.
+- ⚡ Fun fact: After God prays for Money 
 
 #### 1.0.1. Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<!-- TODO: Make technologies links take you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
